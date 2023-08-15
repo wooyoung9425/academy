@@ -1,0 +1,11 @@
+1) sqlConnection.py : sql과 python로 db 연결하는 코드
+2) degreeOfInterest.py : 관심도 측정하는 코드
+3) appointment.py : 응대 점수를 측정하는 코드
+4) participation.py : 참여도 측정하는 코드
+5) academyScore.py : 관심도+참여도+응대 = 학원지수 측정하는 코드
+6) dummy/dummyCode.py : dummy데이터 추출하는 코드
+7) dummyScore.py : dummy데이터로 학원지수 측정하는 코드
+8) reviewScore.py : 리뷰 점수 코드
+9) newAcademyScore.py : 관심도+참여도+응대+스마트리뷰 코드
+10) result폴더 :  참여도, 관심도, 응대, 학원지수, 더미 학원지수등 결과 파일 뽑는 파일 
+
